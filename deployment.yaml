@@ -1,0 +1,8 @@
+apiversion: v1/beta
+kind: deployment
+metadata:
+  name: Devops
+Sepc:
+  lables: 
+    fruit: apple
+    color: red
